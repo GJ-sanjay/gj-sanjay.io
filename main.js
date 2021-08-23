@@ -1,4 +1,4 @@
-import "https://github.com/GJ-sanjay/gj-sanjay.io/blob/none/main.js";
+import "/style.css";
 
 import firebase from 'firebase/app';
 import 'firebase/firestore';
